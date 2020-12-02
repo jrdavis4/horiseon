@@ -1,4 +1,4 @@
-# horiseon_hw1
+# Horiseon Website Refactor
 TABLE OF CONTENTS
 1. Purpose
 2. Preview
@@ -14,9 +14,7 @@ The goal of this project is to refactor the Horiseon website and make it accessi
 PREVIEW
 -------
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+![Preview of website](/assets/images/screenshot.png)
 
 -------
 License
