@@ -14,7 +14,7 @@ The goal of this project is to refactor the Horiseon website and make it accessi
 PREVIEW
 -------
 
-![Preview of website](./assets/images/screenshot.png)
+![Preview of website](screenshot.png)
 
 -------
 License
